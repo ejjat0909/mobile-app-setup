@@ -1,0 +1,18 @@
+{
+  "name": "mobile-app-setup",
+  "version": "1.0.0",
+  "description": "Installable Claude Code skills for mobile app build-flavor setup (Flutter, more frameworks to come)",
+  "bin": {
+    "mobile-app-setup": "./bin/install.js"
+  },
+  "files": [
+    "bin",
+    "flutter",
+    "README.md"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ejjat0909/mobile-app-setup.git"
+  }
+}
